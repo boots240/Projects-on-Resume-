@@ -1,0 +1,1 @@
+The project provides a realistic simulation of an emergency room, demonstrating patient check-ins, priority-based sorting, and patient admissions based on severity and arrival time. This system can serve as a foundation for further enhancements and features in emergency room management.
